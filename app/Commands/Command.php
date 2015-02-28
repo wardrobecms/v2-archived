@@ -1,4 +1,4 @@
-<?php namespace App\Commands;
+<?php namespace Wardrobe\Commands;
 
 abstract class Command {
 

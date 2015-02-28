@@ -1,6 +1,6 @@
-<?php namespace App\Services;
+<?php namespace Wardrobe\Services;
 
-use App\User;
+use Wardrobe\User;
 use Validator;
 use Illuminate\Contracts\Auth\Registrar as RegistrarContract;
 

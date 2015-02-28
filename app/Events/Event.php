@@ -1,4 +1,4 @@
-<?php namespace App\Events;
+<?php namespace Wardrobe\Events;
 
 abstract class Event {
 

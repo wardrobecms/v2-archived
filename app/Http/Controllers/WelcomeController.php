@@ -1,4 +1,4 @@
-<?php namespace App\Http\Controllers;
+<?php namespace Wardrobe\Http\Controllers;
 
 class WelcomeController extends Controller {
 

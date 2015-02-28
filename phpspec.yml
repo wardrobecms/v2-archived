@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: App
-        psr4_prefix: App
+        namespace: Wardrobe
+        psr4_prefix: Wardrobe
         src_path: app
